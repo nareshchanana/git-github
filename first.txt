@@ -1,1 +1,1 @@
-first text file in git project modified
+first text file in git project modified - after commit
